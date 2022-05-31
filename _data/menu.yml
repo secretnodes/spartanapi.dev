@@ -2,9 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: A free high performance API for the Secret Network by Secret LLC
     entries:
-      - title: A free high performance API for the Secret Network by Secret LLC
       - title: RPC
         url: (Coming soon)
       - title: LCD
@@ -25,17 +24,12 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
-  - title: another list
+  - title: Contributors & Support Info
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: Spartan Load Balancer maintained by secretnodes.com
+        url: https://secretnodes.com
+      - title: Endpoints provided by securesecrets.org
+        url: https://securesecrets.org
+      - title: API Telegram Support Channel
+        url: https://t.me/SpartanAPI
