@@ -4,7 +4,7 @@ email: spartan@secretnodes.org # email of site's author
 url: https://spartanapi.dev # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  A free high performance API for the Secret Network by Secret LLC
 
 permalink: /:slug.html
 
