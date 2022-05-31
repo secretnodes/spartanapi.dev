@@ -29,6 +29,8 @@ entries:
     entries:
       - title: Spartan Load Balancer maintained by secretnodes.com
         url: https://secretnodes.com
+      - title: Endpoints provided by secretnodes.com
+        url: https://secretnodes.com
       - title: Endpoints provided by securesecrets.org
         url: https://securesecrets.org
       - title: API Telegram Support Channel
