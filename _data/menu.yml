@@ -4,9 +4,9 @@
 entries:
   - title: Endpoints (coming soon)
     entries:
-      - title: RPC
+      - title: rpc.spartanapi.dev
         url: https://rpc.spartanapi.dev
-      - title: LCD
+      - title: lcd.spartanapi.dev
         url: https://lcd.spartanapi.dev
       - title: gRPC
         url: (Coming soon)
