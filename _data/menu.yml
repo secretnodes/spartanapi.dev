@@ -10,6 +10,10 @@ entries:
         url: https://lcd.spartanapi.dev
       - title: gRPC
         url: (Coming soon)
+      - title: wgRPC
+        url: (Coming soon)
+       - title: Spartan Transparency Report
+        url: https://spartan-transparency-report.spartanapi.dev/report.html
 
   - title: all posts
     post_list:
