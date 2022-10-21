@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Endpoints
+  - title: Secret Endpoints
     entries:
       - title: Secret RPC
         url: https://rpc.spartanapi.dev
@@ -12,6 +12,8 @@ entries:
         url: (Coming soon)
       - title: Secret wgRPC (Coming soon)
         url: (Coming soon)
+  - title: Osmosis Endpoints
+    entries:
       - title: Osmosis RPC (Coming soon)
         url: (Coming soon)
       - title: Osmosis LCD (Coming soon)
@@ -20,6 +22,8 @@ entries:
         url: (Coming soon)
       - title: Osmosis wgRPC (Coming soon)
         url: (Coming soon)
+  - title: Cosmos Endpoints
+    entries:
       - title: Cosmos RPC (Coming soon)
         url: (Coming soon)
       - title: Cosmos LCD (Coming soon)
@@ -28,7 +32,9 @@ entries:
         url: (Coming soon)
       - title: Cosmos wgRPC (Coming soon)
         url: (Coming soon)
-      - title: Spartan Transparency Report
+  - title: Spartan Transparency Reports
+    entries:
+      - title: Spartan Transparency Report - Updated every minute.
         url: https://spartan-transparency-report.spartanapi.dev/report.html
 
   - title: all posts
