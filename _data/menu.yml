@@ -4,13 +4,21 @@
 entries:
   - title: Endpoints (coming soon)
     entries:
-      - title: rpc.spartanapi.dev
+      - title: Secret RPC
         url: https://rpc.spartanapi.dev
-      - title: lcd.spartanapi.dev
+      - title: Secret LCD
         url: https://lcd.spartanapi.dev
-      - title: gRPC
+      - title: Secret gRPC
         url: (Coming soon)
-      - title: wgRPC
+      - title: Secret wgRPC
+        url: (Coming soon)
+      - title: Osmosis RPC
+        url: (Coming soon)
+      - title: Osmosis LCD
+        url: (Coming soon)
+      - title: Osmosis gRPC
+        url: (Coming soon)
+      - title: Osmosis wgRPC
         url: (Coming soon)
       - title: Spartan Transparency Report
         url: https://spartan-transparency-report.spartanapi.dev/report.html
