@@ -2,23 +2,31 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Endpoints (coming soon)
+  - title: Endpoints
     entries:
       - title: Secret RPC
         url: https://rpc.spartanapi.dev
       - title: Secret LCD
         url: https://lcd.spartanapi.dev
-      - title: Secret gRPC
+      - title: Secret gRPC (Coming soon)
         url: (Coming soon)
-      - title: Secret wgRPC
+      - title: Secret wgRPC (Coming soon)
         url: (Coming soon)
-      - title: Osmosis RPC
+      - title: Osmosis RPC (Coming soon)
         url: (Coming soon)
-      - title: Osmosis LCD
+      - title: Osmosis LCD (Coming soon)
         url: (Coming soon)
-      - title: Osmosis gRPC
+      - title: Osmosis gRPC (Coming soon)
         url: (Coming soon)
-      - title: Osmosis wgRPC
+      - title: Osmosis wgRPC (Coming soon)
+        url: (Coming soon)
+      - title: Cosmos RPC (Coming soon)
+        url: (Coming soon)
+      - title: Cosmos LCD (Coming soon)
+        url: (Coming soon)
+      - title: Cosmos gRPC (Coming soon)
+        url: (Coming soon)
+      - title: Cosmos wgRPC (Coming soon)
         url: (Coming soon)
       - title: Spartan Transparency Report
         url: https://spartan-transparency-report.spartanapi.dev/report.html
