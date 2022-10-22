@@ -5,7 +5,7 @@ custom_js: mouse_coords
 
 ### Addition of Osmosis & Cosmos endpoints
 
-In line with ["research and deploy relay nodes to connect secret network to other networks via IBC." from proposal 47](https://secretnodes.com/proposals/47) we are launching Osmosis and Cosmos endpoints. Originally we had intended to ask for further funding to fund the relayer costs, but since we did not do that we are instead providing these endpoints to relayers and dapps. They are not as robust as the main secret cluster we maintain, but we will expand as we see need from the Secret dapp & relayer community to do so. These first endpoints were chosen at request of a builder on secret network. If you have a request for a specific endpoint that we do not currently support, please email me at API@secretnodes.org
+In line with ["research and deploy relay nodes to connect secret network to other networks via IBC." from proposal 47](https://secretnodes.com/secret/proposals/47) we are launching Osmosis and Cosmos endpoints. Originally we had intended to ask for further funding to fund the relayer costs, but since we did not do that we are instead providing these endpoints to relayers and dapps. They are not as robust as the main secret cluster we maintain, but we will expand as we see need from the Secret dapp & relayer community to do so. These first endpoints were chosen at request of a builder on secret network. If you have a request for a specific endpoint that we do not currently support, please email me at API@secretnodes.org
 
 ## List of new endpoints
 
