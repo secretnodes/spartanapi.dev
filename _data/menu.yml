@@ -14,24 +14,24 @@ entries:
         url: (Coming soon)
   - title: Osmosis Endpoints
     entries:
-      - title: Osmosis RPC (Coming soon)
-        url: (Coming soon)
-      - title: Osmosis LCD (Coming soon)
-        url: (Coming soon)
-      - title: Osmosis gRPC (Coming soon)
-        url: (Coming soon)
-      - title: Osmosis wgRPC (Coming soon)
-        url: (Coming soon)
+      - title: Osmosis RPC
+        url: https://osmo-rpc.spartanapi.dev
+      - title: Osmosis LCD
+        url: https://osmo-lcd.spartanapi.dev
+      - title: Osmosis gRPC
+        url: https://osmo-grpc.spartanapi.dev
+      - title: Osmosis wgRPC
+        url: https://osmo-wgrpc.spartanapi.dev
   - title: Cosmos Endpoints
     entries:
-      - title: Cosmos RPC (Coming soon)
-        url: (Coming soon)
-      - title: Cosmos LCD (Coming soon)
-        url: (Coming soon)
-      - title: Cosmos gRPC (Coming soon)
-        url: (Coming soon)
-      - title: Cosmos wgRPC (Coming soon)
-        url: (Coming soon)
+      - title: Cosmos RPC
+        url: https://cosmos-rpc.spartanapi.dev
+      - title: Cosmos LCD
+        url: https://cosmos-lcd.spartanapi.dev
+      - title: Cosmos gRPC
+        url: https://cosmos-grpc.spartanapi.dev
+      - title: Cosmos wgRPC
+        url: https://cosmos-wgrpc.spartanapi.dev
   - title: Spartan Transparency Reports
     entries:
       - title: Spartan Transparency Report - Updated every minute.
