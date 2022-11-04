@@ -8,8 +8,8 @@ custom_js: mouse_coords
 If you need to state sync a secretnode, you can use the following info.
 
 secret
-1. [Secret state sync server a](https://secret-state-sync-a.spartanapi.dev:443)
-2. [Secret state sync server b](https://secret-state-sync-b.spartanapi.dev:443)
+1. [Secret state sync a](https://secret-state-sync-a.spartanapi.dev:443)
+2. [Secret state sync b](https://secret-state-sync-b.spartanapi.dev:443)
 
 Script
 
