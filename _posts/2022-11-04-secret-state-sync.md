@@ -46,4 +46,4 @@ bash state-sync.sh
 
 ## State sync endpoint rules
 
-Note : these endpoints work well for state sync only, please check our other endpoints for dapp use.
+Note : Please only use for this purpose.
