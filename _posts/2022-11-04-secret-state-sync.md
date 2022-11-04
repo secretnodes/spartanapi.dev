@@ -20,8 +20,8 @@ nano state-sync.sh
 
 add the following and save
 ```
-STATE_SYNC_RPC=https://secret-state-sync-b.spartanapi.dev:443/
-STATE_SYNC_RPC_2=https://secret-state-sync-a.spartanapi.dev:443/
+STATE_SYNC_RPC=https://secret-state-sync-b.spartanapi.dev:443
+STATE_SYNC_RPC_2=https://secret-state-sync-a.spartanapi.dev:443
 STATE_SYNC_PEER=bfc22ec9d8ecf68264957a40677b19b820d6a967@162.251.235.242:26656
 LATEST_HEIGHT=$(curl -s $STATE_SYNC_RPC/block | jq -r .result.block.header.height)
 SYNC_BLOCK_HEIGHT=$(($LATEST_HEIGHT - 2000))
