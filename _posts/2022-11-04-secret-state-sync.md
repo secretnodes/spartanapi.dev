@@ -3,10 +3,9 @@ layout: post
 custom_js: mouse_coords
 ---
 
-### Secret State Sync Servers
+### Secret State Sync 
 
-If you need to state sync a secretnode, you can use the following state sync servers.
-## List of new endpoints
+If you need to state sync a secretnode, you can use the following info.
 
 secret
 1. [Secret state sync server a](https://secret-state-sync-a.spartanapi.dev:443)
