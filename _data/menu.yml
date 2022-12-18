@@ -9,9 +9,9 @@ entries:
       - title: Secret LCD
         url: https://lcd.spartanapi.dev
       - title: Secret gRPC (Coming soon)
-        url: (Coming soon)
+        url: https://grpc.spartanapi.dev
       - title: Secret wgRPC (Coming soon)
-        url: (Coming soon)
+        url: https://wgrpc.spartanapi.dev
   - title: Spartan Transparency Reports
     entries:
       - title: Spartan Transparency Report - Updated every minute.
